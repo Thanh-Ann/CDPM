@@ -1,8 +1,5 @@
 "ADD"
 "MUL"
 "SUB"
-<<<<<<< HEAD
-"MOD" 
-=======
-"DIV" 
->>>>>>> f02e15b (Implement division bugfix)
+"MOD"
+"DIV"
